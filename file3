@@ -1,1 +1,2 @@
 select male,salary from users
+select acn,cif,def from cif

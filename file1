@@ -2,4 +2,4 @@ select * from user
 delete from user where id =5
 select * from user where gender='male'
 update user set salary=60000 where id ='5'
-
+select acn,cif from users

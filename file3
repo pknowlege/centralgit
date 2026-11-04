@@ -1,0 +1,1 @@
+select male,salary from users

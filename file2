@@ -1,0 +1,2 @@
+select * from user where id ='5'
+update user set salary =60000 where id in ('5','6') 
